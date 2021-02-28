@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class file {
-    // line --> sətir
+public class Calculator {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -46,8 +45,6 @@ public class file {
             }
 
         }
-
-        // DRY --> Don't Repeat Yourself! --> Özünü təkrarlama!
 
         else {
             System.out.println("Yanlis emeliyyat!");
