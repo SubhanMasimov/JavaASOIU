@@ -1,5 +1,6 @@
 //Write a Java Program to Delete an Element in an array.
 
+package Homeworks.Arrays;
 import java.util.Scanner;
 
 public class Homework3 {

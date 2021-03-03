@@ -1,5 +1,6 @@
 //Write a Java program to find the duplicate values of an array of integer values.
 
+package Homeworks.Arrays;
 import java.util.Scanner;
 
 public class Homework5 {

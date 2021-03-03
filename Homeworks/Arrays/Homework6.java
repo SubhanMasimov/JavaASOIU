@@ -1,5 +1,6 @@
 //find-largest-and-smallest-element-matrix
 
+package Homeworks.Arrays;
 import java.util.Scanner;
 
 public class Homework6 {

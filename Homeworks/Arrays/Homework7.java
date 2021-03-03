@@ -1,5 +1,6 @@
 //Write a Java Program to Find Sum Above and Below of Main Diagonal Matrix.
 
+package Homeworks.Arrays;
 import java.util.Scanner;
 
 public class Homework7 {

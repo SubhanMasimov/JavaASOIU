@@ -1,5 +1,6 @@
 //Write a Java Program to find Average of n Numbers using array
 
+package Homeworks.Arrays;
 import java.util.Scanner;
 
 public class Homework4 {
