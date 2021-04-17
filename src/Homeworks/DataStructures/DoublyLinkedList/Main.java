@@ -3,8 +3,8 @@ package Homeworks.DataStructures.DoublyLinkedList;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		DoublyLinkedList<Integer> linkedList = new DoublyLinkedList<>();
+		linkedList.printList();
 	}
 
 }
