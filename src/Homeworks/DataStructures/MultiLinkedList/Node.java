@@ -11,6 +11,4 @@ public class Node {
 		this.child = child;
 		this.next = next;
 	}
-	
-	
 }
