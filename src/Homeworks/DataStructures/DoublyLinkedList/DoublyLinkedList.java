@@ -39,7 +39,7 @@ public class DoublyLinkedList<T> {
 		headerNode = node;
 	}
 
-	public void AddwithIndex(int index, T item) {
+	public void addwithIndex(int index, T item) {
 		Node addedNode = new Node((T) item, null, null);
 
 		if (index == 0) {
